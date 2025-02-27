@@ -1,8 +1,8 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
-   
-    "target": "ES6",
+   "sourceRoot": "src",
+    "target": "ES2020",
     "module": "CommonJS",
     "moduleResolution": "node",
     "sourceMap": true,
@@ -23,7 +23,7 @@
     ],
     "incremental": true,
     "allowSyntheticDefaultImports": true,
-    "outDir": "/dist"
+    "outDir": "dist"
   },
   "exclude": [
     "node_modules",
