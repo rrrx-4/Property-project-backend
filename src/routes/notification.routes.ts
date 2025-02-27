@@ -2,6 +2,7 @@ import * as express from 'express';
 import { NotificationController } from '../controller/notification.controller';
 import { authenticateRequest } from '../policies/authentication.policy';
 
+
 export class NotificationRoutes {
   private router = express.Router();
 
