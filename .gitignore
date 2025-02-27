@@ -15,6 +15,5 @@ dist/
 
 node_modules/
 
-src/config/config.ts
 
 .vscode/
