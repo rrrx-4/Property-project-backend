@@ -23,7 +23,7 @@
     ],
     "incremental": true,
     "allowSyntheticDefaultImports": true,
-    "outDir": "./dist"
+    "outDir": "./src/dist"
   },
   "exclude": [
     "node_modules",
